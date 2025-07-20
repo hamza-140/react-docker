@@ -2,4 +2,4 @@ services:
   web:
     build: .
     ports:
-      - "5173:80"  # Map host's 5173 to container's 80
+      - "80:80"
