@@ -10,4 +10,4 @@ services:
     environment:
       NODE_ENV: development
     stdin_open: true 
-    command: npm start
+    command: npm run dev
